@@ -9,7 +9,7 @@ format:
 
 
 ```{r setup, include=FALSE}
-here::i_am("wtm_ad.Rproj")
+here::i_am("wtm_nz.Rproj")
 
 ## Global options
 knitr::opts_chunk$set(
